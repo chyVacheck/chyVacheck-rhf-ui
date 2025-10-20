@@ -12,12 +12,6 @@ bun add chyvacheck-rhf-ui react-hook-form zod
 npm install chyvacheck-rhf-ui react-hook-form zod
 ```
 
-Если проект использует Tailwind CSS, просто импортируйте стили библиотеки в корень вашего приложения.
-
-```tsx
-import "chyvacheck-rhf-ui/styles.css";
-```
-
 ---
 
 ## 🧩 Использование
